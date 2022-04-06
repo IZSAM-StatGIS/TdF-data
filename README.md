@@ -20,6 +20,8 @@ Questo repository raccoglie e mette a disposizione della cittadinanza (con licen
 
 Dataset geografico in formato *GeoJSON* delle particelle catastali **classificate sulla base delle restrizioni ai fini dell'uso agricolo**.
 
+https://github.com/IZSAM-StatGIS/TdF-data/blob/main/data/particelle_classificate.geojson
+
  |Classe|Definizione|
  |------|-----------|
  |A| Terreni idonei alle produzioni agroalimentari|
@@ -29,8 +31,6 @@ Dataset geografico in formato *GeoJSON* delle particelle catastali **classificat
  |D| Terreni con divieto di produzioni agroalimentari e silvo pastorali| 
  |VALUTAZIONE SOSPESA |Valutazione sospesa|
  |-|Nessuna classificazione|
- 
- ...URL per il download del file geojson
  
  *Prescrizioni*
 |Prescrizione|Definizione|
@@ -54,13 +54,13 @@ Dataset geografico in formato *GeoJSON* delle particelle catastali **classificat
 ### Comuni indagati
 Dataset geografico in formato *GeoJSON* con i limiti dei Comuni ricadenti nell'area di studio.
 
-...URL per il download del file geojson
+https://github.com/IZSAM-StatGIS/TdF-data/blob/main/data/comuni_indagati.geojson
 
 ### Risultati analisi campioni di suolo e vegetali
 Dataset in formato *CSV*. 
 
-...URL per download dei file csv suoli
+https://github.com/IZSAM-StatGIS/TdF-data/blob/main/data/risultati_suolo.csv
 
-...URL per download dei file csv suoli
+https://github.com/IZSAM-StatGIS/TdF-data/blob/main/data/risultati_vegetali.csv
 
 
