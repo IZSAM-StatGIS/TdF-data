@@ -10,7 +10,7 @@ Le indagini sono state affidate al Consiglio per la Ricerca e la Sperimentazione
 
 La Direttiva prevede che dati e informazioni saranno condivisi dagli Enti coinvolti *“anche attraverso l’utilizzo della struttura informatica dell’Istituto Zooprofilattico Sperimentale dell'Abruzzo e del Molise per la raccolta delle informazioni, l’esecuzione delle procedure di classificazione e la registrazione dei terreni oggetto di indagine”* (Art. 1).
 
-Oltre all’IZS dell’Abruzzo e del Molise, del gruppo di lavoro fanno parte rappresentanti di CRA, ISPRA, ISS, AGEA, Regione Campania, ARPAC, IZS del Mezzogiorno (Campania e Calabria) e Università degli Studi di Napoli Federico II.
+Oltre all’IZS dell’Abruzzo e del Molise, del gruppo di lavoro fanno parte rappresentanti di CREA, ISPRA, ISS, AGEA, Regione Campania, ARPAC, IZS del Mezzogiorno (Campania e Calabria) e Università degli Studi di Napoli Federico II.
 </div>
 
 ## Dati
