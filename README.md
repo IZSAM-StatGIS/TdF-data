@@ -13,7 +13,7 @@ La Direttiva prevede che dati e informazioni saranno condivisi dagli Enti coinvo
 Oltre all’IZS dell’Abruzzo e del Molise, del gruppo di lavoro fanno parte rappresentanti di CREA, ISPRA, ISS, AGEA, Regione Campania, ARPAC, IZS del Mezzogiorno (Campania e Calabria) e Università degli Studi di Napoli Federico II.
 </div>
 
-## Dati
+## Contenuti
 Questo repository raccoglie e mette a disposizione della cittadinanza (con licenza <a href="https://creativecommons.org/licenses/by/4.0/deed.it" target="_blank">CC-BY-4.0</a>) i dati prodotti dal Gruppo di Lavoro. 
 
 ### Particelle catastali classificate
