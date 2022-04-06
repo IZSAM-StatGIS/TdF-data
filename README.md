@@ -1,2 +1,26 @@
-# TdF-data
-Dati piattaforma mappatura Terra dei Fuochi
+# Introduzione
+L’Istituto Zooprofilattico Sperimentale dell’Abruzzo e del Molise “G. Caporale” fa parte del Gruppo di Lavoro che analizza i dati sulla mappatura della *Terra dei Fuochi*.
+
+Il Ministro delle Politiche Agricole, Alimentari e Forestali, il Ministro dell’Ambiente e della Tutela del Territorio e del Mare e il Ministro della Salute, hanno firmato la Direttiva per lo svolgimento delle indagini tecniche per la mappatura dei terreni della Regione Campania destinati all’agricoltura, in ottemperanza al Decreto Legge del 10 Dicembre 2013 “Disposizioni urgenti dirette a fronteggiare emergenze ambientali e industriali ed a favorire lo sviluppo delle aree interessate”.
+
+La mappatura, eseguita anche attraverso strumenti di telerilevamento, è finalizzata ad accertare l’eventuale esistenza di effetti contaminanti a causa di sversamenti e smaltimenti abusivi anche mediante combustione.
+
+Le indagini sono state affidate al Consiglio per la Ricerca e la Sperimentazione in Agricoltura, l’Istituto Superiore per la Protezione e la Ricerca Ambientale, l’Istituto Superiore di Sanità e l’Agenzia Regionale per la Protezione Ambientale in Campania, che potranno avvalersi del Nucleo Operativo Ecologico dei Carabinieri, del Corpo Forestale dello Stato, del Comando Carabinieri Politiche Agricole e Alimentari e altri organi dello Stato.
+
+La Direttiva prevede che dati e informazioni saranno condivisi dagli Enti coinvolti *“anche attraverso l’utilizzo della struttura informatica dell’Istituto Zooprofilattico Sperimentale dell'Abruzzo e del Molise per la raccolta delle informazioni, l’esecuzione delle procedure di classificazione e la registrazione dei terreni oggetto di indagine”* (Art. 1).
+
+Oltre all’IZS dell’Abruzzo e del Molise, del gruppo di lavoro fanno parte rappresentanti di CRA, ISPRA, ISS, AGEA, Regione Campania, ARPAC, IZS del Mezzogiorno (Campania e Calabria) e Università degli Studi di Napoli Federico II.
+
+# Dati
+Questo repository raccoglie e mette a disposizione della cittadinanza (con licenza <a href="https://creativecommons.org/licenses/by/4.0/deed.it" target="_blank">CC-BY-4.0</a>) i dati prodotti dal Gruppo di Lavoro. 
+
+## Particelle catastali classificate
+...inserire URL
+
+## Comuni indagati
+...inserire URL
+
+## Risultati analisi campioni di suolo e vegetali
+...inserire URL
+
+
