@@ -1,3 +1,4 @@
+<img src="https://github.com/IZSAM-StatGIS/TdF-data/raw/main/loghi.png" alt="loghi"></img>
 ## Introduzione
 L’Istituto Zooprofilattico Sperimentale dell’Abruzzo e del Molise “G. Caporale” fa parte del Gruppo di Lavoro che analizza i dati sulla mappatura della *Terra dei Fuochi*.
 
