@@ -33,7 +33,7 @@ Dataset geografico in formato *GeoJSON* delle particelle catastali **classificat
  ...URL per il download del file geojson
  
  *Prescrizioni*
-|Codice prescrizione|Definizione|
+|Prescrizione|Definizione|
 |-------------------|-----------|
 |r|Rimozione riufiuti e analisi delle aree di sedime|
 |c|Certificazione per i prodotti agroalimentari attestante la conformità alla normativa vigente|
@@ -45,7 +45,7 @@ Dataset geografico in formato *GeoJSON* delle particelle catastali **classificat
 |int-20|Interdizione alla coltivazione della porzione di particella dei primi 20 metri a partire dal canale perimetrale della discarica fino alla messa in sicurezza delle discariche ai sensi del D.M. n. 169/2021|
  
 *Parametri critici nel suolo*
-|Simbolo|Definizione|
+|Nota|Definizione|
 |-|--------------------------|
 | * |Concentrazione inquinante di poco superiore alle CSC e probabilmente ascrivibile a fenomeni di inquinamento diffuso|
 | ** |In applicazione del principio di precauzione è stata estesa a tutta la particella la classe più restrittiva|
