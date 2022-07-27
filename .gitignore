@@ -1,2 +1,7 @@
 data/*.xml
 data/*.ini
+data/*.shp
+data/*.shx
+data/*.dbf
+data/*.prj
+data/*.cpg
