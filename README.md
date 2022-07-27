@@ -21,7 +21,7 @@ Questo repository raccoglie e mette a disposizione della cittadinanza (con licen
 Dataset geografico, disponibile in formato *GeoJSON* ed *ESRI Shapefile*, delle particelle catastali **classificate sulla base delle restrizioni ai fini dell'uso agricolo**.
 
 https://github.com/IZSAM-StatGIS/TdF-data/blob/main/data/particelle_classificate.geojson<br/>
-https://github.com/IZSAM-StatGIS/TdF-data/blob/main/data/particelle_classificate.shp.zip
+https://github.com/IZSAM-StatGIS/TdF-data/blob/main/data/particelle_classificate.zip
 
  |Nome colonna|Informazione contenuta|
  |------------|----------------------|
@@ -71,7 +71,7 @@ https://github.com/IZSAM-StatGIS/TdF-data/blob/main/data/particelle_classificate
 Dataset geografico, disponibile in formato *GeoJSON* ed *ESRI Shapefile*, con i limiti dei Comuni ricadenti nell'area di studio.
 
 https://github.com/IZSAM-StatGIS/TdF-data/blob/main/data/comuni_indagati.geojson<br/>
-https://github.com/IZSAM-StatGIS/TdF-data/blob/main/data/comuni_indagati.shp.zip
+https://github.com/IZSAM-StatGIS/TdF-data/blob/main/data/comuni_indagati.zip
 
 ### Risultati analisi campioni di suolo e vegetali
 Dataset in formato *CSV*. 
